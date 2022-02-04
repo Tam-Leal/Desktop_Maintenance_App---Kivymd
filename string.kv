@@ -16,6 +16,7 @@ ScreenManager:
             anim_delay: .05
             anim_loop: 50
             anim_reset: True
+        
         MDTextField:
             id: user_email
             mode: "rectangle"
@@ -45,6 +46,7 @@ ScreenManager:
             on_release:
                 app.root.current = "signup"
                 root.manager.transition.direction = "left"
+        
         MDLabel:
             text: "Dont have an Account ?"
             theme_text_color: "Custom"
@@ -164,7 +166,6 @@ ScreenManager:
             name: 'screen2'
             text: 'Queue'
             icon: 'human-queue'
-#           badge_icon: f"numeric-{self.monta}"
             on_tab_press:
                 app.queue()
             ScrollView:
