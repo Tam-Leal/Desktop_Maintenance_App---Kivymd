@@ -33,12 +33,12 @@ _SignUp_
 =
 ![alt-text](assets/signup_screen.PNG "optional-title")
 
-_Request Window_
-=
+_Request Window_                                                                                                          _Request Window_
+=                                                                                                                          =
 
-On this screen, the user points to which category of problem he requires assistance and details of what happened.
+On this screen, the user points to which category of problem he requires assistance and details of what happened.  ||
 
-![alt-text](assets/main_window.PNG "optional-title")
+![alt-text](assets/main_window.PNG "optional-title")                                                                   ![alt-text](assets/main_window_issue.PNG "optional-title")
 
 Queue
 =
