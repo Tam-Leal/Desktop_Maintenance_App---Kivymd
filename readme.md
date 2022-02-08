@@ -58,7 +58,7 @@ Kivy
 
 License
 =
-KivyMD and kivy are released under the terms of the [MIT License](License/license.txt "optional-title").
+KivyMD and kivy are released under the terms of the [MIT License](License/license "optional-title").
 
 Future Ideas
 =
