@@ -47,6 +47,19 @@ Here, both the users and the maintenance team can follow and execute the tasks
 
 ![alt-text](assets/queue_screen.PNG "optional-title")
 
+Documentation
+=
+KivyMd
+
+* See documentation at [https://kivymd.readthedocs.io](https://kivymd.readthedocs.io "optional-title")
+
+Kivy
+* See documentation at [https://kivy.org/doc/stable/](https://kivy.org/doc/stable/ "optional-title") 
+
+License
+=
+KivyMD and kivy are released under the terms of the [MIT License](License/license.txt "optional-title").
+
 Future Ideas
 =
 Implement an interface for the maintenance team to delete requests already made. In addition,
