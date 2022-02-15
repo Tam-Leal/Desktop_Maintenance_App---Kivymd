@@ -1,11 +1,8 @@
 
 I.T Maintance
 ==
--------------
-
 Application to control the maintenance of computers in sectors of a company.
 
-----------------
 The Project
 ==
 
